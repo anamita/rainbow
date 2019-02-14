@@ -177,7 +177,7 @@ You should be able to build and run this app on your device by now. Try to hold 
 
 ![](images/screenshots.png)
 
-# Core ML + Watson at THINk 2019
+# Core ML + Watson at THINK 2019
 [link](https://developer.ibm.com/blogs/2019/02/07/ibm-watson-computer-vision-and-apple-core-ml-at-think/)
 
 # Links
