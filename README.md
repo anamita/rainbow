@@ -177,6 +177,9 @@ You should be able to build and run this app on your device by now. Try to hold 
 
 ![](images/screenshots.png)
 
+# Core ML + Watson at THINk 2019
+[link](https://developer.ibm.com/blogs/2019/02/07/ibm-watson-computer-vision-and-apple-core-ml-at-think/)
+
 # Links
 * [Lumina](https://github.com/dokun1/Lumina): A camera designed in Swift for easily integrating CoreML models - as well as image streaming, QR/Barcode detection, and many other features.
 * [IBM’s Watson Visual Recognition service to support Apple Core ML technology](https://developer.ibm.com/code/2018/03/21/ibm-watson-visual-recognition-service-to-support-apple-core-ml/): Blog from the code pattern author, Steve Martinelli.
