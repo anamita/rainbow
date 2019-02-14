@@ -80,7 +80,7 @@ carthage update --platform iOS
 
 3. Go to your Cloudant service home page, and click the green  **Launch** button. Click the database icon on the left, and along the top, click `Create Database`. Name it `routes-users`, and click `Create Document`. Edit your JSON to include a `"username"` and a `"password"` of your choosing. If you do this, you will need this when you set up your iOS application.
 
-4. Do the same thing for a Push Notifications service as well.
+4. SKIP THIS STEP: Do the same thing for a Push Notifications service as well.
 
   <p align="center">
     <img src="./images/pushNotificationsChoice.png" width=300>
